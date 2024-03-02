@@ -1,6 +1,8 @@
 # ANAVI Gardening Controller
 
-Open source hardware IoT gardening controller with XIAO ESP32C3, soil moisture sensors, I2C sensors and mini OLED display.
+Open source hardware IoT gardening controller with soil moisture sensors, I2C sensors, mini OLED SSD1306 SSD display and [Seeed Studio’s XIAO RP2040 module](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?utm_source=github&utm_medium=ANAVI&utm_campaign=Handle) that provides a USB-C connector and a Raspberry Pi RP2040 microcontroller.
+
+ANAVI Gardening Controller has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad.org/).
 
 # License
 
